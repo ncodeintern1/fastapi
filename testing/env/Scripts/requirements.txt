@@ -1,8 +1,0 @@
-fastapi
-unicorn
-
-
-psycopg2-binary
-sqlalchemy
-python-dotenv
-python-doten
