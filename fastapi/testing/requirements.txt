@@ -29,3 +29,11 @@ passlib[bcrypt]
 #for testing       #new
 pytest
 requests
+
+
+
+#hokes
+pre-commit
+
+
+ 
